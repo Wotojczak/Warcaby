@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xQ5wYvZn4VeHpEkaKzKfRmeeeQiuFLzSw/6gTxfQsqmqq0wLefLA1Y2lKyWM1QIe4sqDQ0zfsOg/EpmF1aLa8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wojtaszekt\\RiderProjects\\Warcaby\\Warcaby\\Warcaby.iOS\\Warcaby.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wojtaszekt\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
