@@ -848,24 +848,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\wojtaszekt\\.nuget\\packages\\": {},
+    "C:\\Users\\Kasia\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wojtaszekt\\RiderProjects\\Warcaby\\Warcaby\\Warcaby.iOS\\Warcaby.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Kasia\\Downloads\\Warcaby\\Warcaby\\Warcaby.iOS\\Warcaby.iOS.csproj",
       "projectName": "Warcaby.iOS.csproj",
-      "projectPath": "C:\\Users\\wojtaszekt\\RiderProjects\\Warcaby\\Warcaby\\Warcaby.iOS\\Warcaby.iOS.csproj",
-      "packagesPath": "C:\\Users\\wojtaszekt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wojtaszekt\\RiderProjects\\Warcaby\\Warcaby\\Warcaby.iOS\\obj\\",
+      "projectPath": "C:\\Users\\Kasia\\Downloads\\Warcaby\\Warcaby\\Warcaby.iOS\\Warcaby.iOS.csproj",
+      "packagesPath": "C:\\Users\\Kasia\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Kasia\\Downloads\\Warcaby\\Warcaby\\Warcaby.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\wojtaszekt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Kasia\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -879,8 +879,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\wojtaszekt\\RiderProjects\\Warcaby\\Warcaby\\Warcaby\\Warcaby.csproj": {
-              "projectPath": "C:\\Users\\wojtaszekt\\RiderProjects\\Warcaby\\Warcaby\\Warcaby\\Warcaby.csproj"
+            "C:\\Users\\Kasia\\Downloads\\Warcaby\\Warcaby\\Warcaby\\Warcaby.csproj": {
+              "projectPath": "C:\\Users\\Kasia\\Downloads\\Warcaby\\Warcaby\\Warcaby\\Warcaby.csproj"
             }
           }
         }

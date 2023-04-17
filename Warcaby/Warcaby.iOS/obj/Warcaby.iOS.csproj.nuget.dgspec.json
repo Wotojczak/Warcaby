@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wojtaszekt\\RiderProjects\\Warcaby\\Warcaby\\Warcaby.iOS\\Warcaby.iOS.csproj": {}
+    "C:\\Users\\Kasia\\Downloads\\Warcaby\\Warcaby\\Warcaby.iOS\\Warcaby.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wojtaszekt\\RiderProjects\\Warcaby\\Warcaby\\Warcaby.iOS\\Warcaby.iOS.csproj": {
+    "C:\\Users\\Kasia\\Downloads\\Warcaby\\Warcaby\\Warcaby.iOS\\Warcaby.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wojtaszekt\\RiderProjects\\Warcaby\\Warcaby\\Warcaby.iOS\\Warcaby.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\Kasia\\Downloads\\Warcaby\\Warcaby\\Warcaby.iOS\\Warcaby.iOS.csproj",
         "projectName": "Warcaby.iOS.csproj",
-        "projectPath": "C:\\Users\\wojtaszekt\\RiderProjects\\Warcaby\\Warcaby\\Warcaby.iOS\\Warcaby.iOS.csproj",
-        "packagesPath": "C:\\Users\\wojtaszekt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wojtaszekt\\RiderProjects\\Warcaby\\Warcaby\\Warcaby.iOS\\obj\\",
+        "projectPath": "C:\\Users\\Kasia\\Downloads\\Warcaby\\Warcaby\\Warcaby.iOS\\Warcaby.iOS.csproj",
+        "packagesPath": "C:\\Users\\Kasia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kasia\\Downloads\\Warcaby\\Warcaby\\Warcaby.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\wojtaszekt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Kasia\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\wojtaszekt\\RiderProjects\\Warcaby\\Warcaby\\Warcaby\\Warcaby.csproj": {
-                "projectPath": "C:\\Users\\wojtaszekt\\RiderProjects\\Warcaby\\Warcaby\\Warcaby\\Warcaby.csproj"
+              "C:\\Users\\Kasia\\Downloads\\Warcaby\\Warcaby\\Warcaby\\Warcaby.csproj": {
+                "projectPath": "C:\\Users\\Kasia\\Downloads\\Warcaby\\Warcaby\\Warcaby\\Warcaby.csproj"
               }
             }
           }
@@ -61,20 +61,20 @@
         }
       }
     },
-    "C:\\Users\\wojtaszekt\\RiderProjects\\Warcaby\\Warcaby\\Warcaby\\Warcaby.csproj": {
+    "C:\\Users\\Kasia\\Downloads\\Warcaby\\Warcaby\\Warcaby\\Warcaby.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wojtaszekt\\RiderProjects\\Warcaby\\Warcaby\\Warcaby\\Warcaby.csproj",
+        "projectUniqueName": "C:\\Users\\Kasia\\Downloads\\Warcaby\\Warcaby\\Warcaby\\Warcaby.csproj",
         "projectName": "Warcaby",
-        "projectPath": "C:\\Users\\wojtaszekt\\RiderProjects\\Warcaby\\Warcaby\\Warcaby\\Warcaby.csproj",
-        "packagesPath": "C:\\Users\\wojtaszekt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wojtaszekt\\RiderProjects\\Warcaby\\Warcaby\\Warcaby\\obj\\",
+        "projectPath": "C:\\Users\\Kasia\\Downloads\\Warcaby\\Warcaby\\Warcaby\\Warcaby.csproj",
+        "packagesPath": "C:\\Users\\Kasia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kasia\\Downloads\\Warcaby\\Warcaby\\Warcaby\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\wojtaszekt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Kasia\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -124,7 +124,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

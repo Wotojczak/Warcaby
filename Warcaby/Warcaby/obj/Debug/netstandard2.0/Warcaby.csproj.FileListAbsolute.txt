@@ -11,3 +11,16 @@ C:\Users\wojtaszekt\RiderProjects\Warcaby\Warcaby\Warcaby\obj\Debug\netstandard2
 C:\Users\wojtaszekt\RiderProjects\Warcaby\Warcaby\Warcaby\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\wojtaszekt\RiderProjects\Warcaby\Warcaby\Warcaby\obj\Debug\netstandard2.0\Warcaby.dll
 C:\Users\wojtaszekt\RiderProjects\Warcaby\Warcaby\Warcaby\obj\Debug\netstandard2.0\Warcaby.pdb
+C:\Users\Kasia\Downloads\Warcaby\Warcaby\Warcaby\bin\Debug\netstandard2.0\Warcaby.deps.json
+C:\Users\Kasia\Downloads\Warcaby\Warcaby\Warcaby\bin\Debug\netstandard2.0\Warcaby.dll
+C:\Users\Kasia\Downloads\Warcaby\Warcaby\Warcaby\bin\Debug\netstandard2.0\Warcaby.pdb
+C:\Users\Kasia\Downloads\Warcaby\Warcaby\Warcaby\obj\Debug\netstandard2.0\Warcaby.csproj.AssemblyReference.cache
+C:\Users\Kasia\Downloads\Warcaby\Warcaby\Warcaby\obj\Debug\netstandard2.0\Warcaby.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kasia\Downloads\Warcaby\Warcaby\Warcaby\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Kasia\Downloads\Warcaby\Warcaby\Warcaby\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Kasia\Downloads\Warcaby\Warcaby\Warcaby\obj\Debug\netstandard2.0\Warcaby.AssemblyInfoInputs.cache
+C:\Users\Kasia\Downloads\Warcaby\Warcaby\Warcaby\obj\Debug\netstandard2.0\Warcaby.AssemblyInfo.cs
+C:\Users\Kasia\Downloads\Warcaby\Warcaby\Warcaby\obj\Debug\netstandard2.0\Warcaby.csproj.CoreCompileInputs.cache
+C:\Users\Kasia\Downloads\Warcaby\Warcaby\Warcaby\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Kasia\Downloads\Warcaby\Warcaby\Warcaby\obj\Debug\netstandard2.0\Warcaby.dll
+C:\Users\Kasia\Downloads\Warcaby\Warcaby\Warcaby\obj\Debug\netstandard2.0\Warcaby.pdb
